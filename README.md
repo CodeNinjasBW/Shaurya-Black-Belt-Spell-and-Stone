@@ -1,2 +1,2 @@
 # Shaurya-Black-Belt-Spell-and-Stone
-Shaurya's Black Belt project
+This repository is for Shaurya's Black Belt project's WebGL link.
